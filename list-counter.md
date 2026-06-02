@@ -7,15 +7,14 @@ description: Privacy policy for the List Counter Android app by Dash Fusion.
 # List Counter — Privacy Policy
 
 **Effective date:** 2026-06-01
-**Last updated:** 2026-06-01
+**Last updated:** 2026-06-02
 
 ## Summary
 
 List Counter is an offline-first counter app. We do **not** create accounts,
 do **not** ask for your email, and do **not** ship any analytics or tracking
 SDK. The only data that leaves your device is what Google AdMob needs to
-serve ads (and only if you haven't bought "Remove ads"), and what Google
-Play Billing needs to process a one-time purchase.
+serve ads.
 
 If that's all you wanted to know, you're done. The sections below spell it
 out in detail.
@@ -36,7 +35,7 @@ leaves the device unless you explicitly export it.
 - Per-counter history (each tap, decrement, manual edit, and reset, with a
   local timestamp)
 - App preferences: theme (system/light/dark), haptics toggle, screen-wake
-  toggle, volume-keys toggle, and whether you've purchased "Remove ads"
+  toggle, and volume-keys toggle
 
 You can export this data as a JSON file at any time via
 **Settings → Export backup**. You can wipe all of it by uninstalling the
@@ -49,8 +48,7 @@ lose your device.
 
 ### Google AdMob (ads)
 
-When ads are **not** disabled (i.e. you haven't purchased "Remove ads"), the
-app contains the Google Mobile Ads SDK. Google may collect and process:
+The app contains the Google Mobile Ads SDK. Google may collect and process:
 
 - Your device's **Advertising ID** (a resettable identifier that Android
   provides for ads)
@@ -67,15 +65,6 @@ own policies:
 
 You can opt out of personalized advertising at any time via your device's
 system settings (Android: **Settings → Privacy → Ads**).
-
-### Google Play Billing (in-app purchase)
-
-The optional one-time "Remove ads" purchase is processed by Google Play
-Billing. We do not see your payment method or full Play account; we only
-receive a signal that the SKU is owned, which we store locally so the app
-can hide ads. Google's handling of the purchase is governed by:
-
-- [Google Play terms](https://play.google.com/about/play-terms/)
 
 ## Data we collect ourselves
 
@@ -103,8 +92,6 @@ children.
 ## Your choices
 
 - **Disable personalized ads** — Android system settings → Privacy → Ads
-- **Remove ads entirely** — buy the one-time "Remove ads" item in
-  Settings → Remove ads
 - **Export your data** — Settings → Export backup (writes a JSON file you
   control)
 - **Delete your data** — uninstall the app
