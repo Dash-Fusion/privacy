@@ -11,6 +11,7 @@ Privacy policies for apps published by **Dash Fusion** on Google Play.
 ## Apps
 
 - [List Counter](./list-counter)
+- [List Timer](./list-timer)
 
 ## Contact
 
