@@ -7,7 +7,7 @@ description: Privacy policy for the List Counter Android app by Dash Fusion.
 # List Counter — Privacy Policy
 
 **Effective date:** 2026-06-01
-**Last updated:** 2026-06-02
+**Last updated:** 2026-06-09
 
 ## Summary
 
@@ -32,6 +32,8 @@ The following data is created and kept **locally** on your device. It never
 leaves the device unless you explicitly export it.
 
 - Counter names, current values, custom step sizes, colors, and icons you set
+- Optional counter pictures you add from your gallery or camera (stored only
+  on your device, never uploaded — see "Photos & camera" below)
 - Per-counter history (each tap, decrement, manual edit, and reset, with a
   local timestamp)
 - App preferences: theme (system/light/dark), haptics toggle, screen-wake
@@ -80,8 +82,20 @@ log app usage anywhere we can read it.
 - **Vibrate** — for the haptic-feedback toggle (off by default until you
   enable it).
 
-The app does **not** request location, contacts, photos, microphone,
-camera, files, or any other sensitive permission.
+The app does **not** hold standing access to your location, contacts,
+microphone, or files.
+
+## Photos & camera
+
+Setting a counter picture is optional. When you tap **Gallery** or **Camera**
+in a counter's settings, the app opens your device's own photo picker or
+camera app and receives **only** the single image you pick or capture. That
+image is resized, stored **only on your device** (inside the app's local
+database), and is **never uploaded** anywhere. It is included in your local
+backup file if you choose to export one, and it is removed when you remove
+the picture, delete the counter, or uninstall the app. The app keeps no
+standing access to your gallery or camera — it asks the system each time,
+only when you tap those buttons.
 
 ## Children
 
