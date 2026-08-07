@@ -19,6 +19,7 @@ Privacy policies for apps published by **Dash Fusion** on Google Play.
 - [List Debt](./list-debt)
 - [List Notes](./list-notes)
 - [List Budget](./list-budget)
+- [Potion Sort](./potion-sort)
 
 ## Contact
 
