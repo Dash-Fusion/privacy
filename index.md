@@ -20,6 +20,7 @@ Privacy policies for apps published by **Dash Fusion** on Google Play.
 - [List Notes](./list-notes)
 - [List Budget](./list-budget)
 - [List QR](./list-qr)
+- [List Habit](./list-habit)
 - [Neon PingPong](./pingpong)
 - [Potion Sort](./potion-sort)
 
