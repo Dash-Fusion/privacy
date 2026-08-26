@@ -24,6 +24,7 @@ Privacy policies for apps published by **Dash Fusion** on Google Play.
 - [List Subs](./list-subs)
 - [List Grocery](./list-grocery)
 - [List Todo](./list-todo)
+- [List Invoice](./list-invoice)
 - [Neon PingPong](./pingpong)
 - [Potion Sort](./potion-sort)
 
