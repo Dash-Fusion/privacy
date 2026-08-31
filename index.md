@@ -27,6 +27,7 @@ Privacy policies for apps published by **Dash Fusion** on Google Play.
 - [List Invoice](./list-invoice)
 - [List Water](./list-water)
 - [List Countdown](./list-countdown)
+- [List Weight](./list-weight)
 - [Neon PingPong](./pingpong)
 - [Potion Sort](./potion-sort)
 
