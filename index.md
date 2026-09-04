@@ -37,6 +37,7 @@ Privacy policies for apps published by **Dash Fusion** on Google Play.
 - [Baby Tracker](./list-baby)
 - [Recipe Keeper](./list-recipe)
 - [Voice Recorder](./list-voice)
+- [Flashcards](./list-flashcards)
 - [Neon PingPong](./pingpong)
 - [Potion Sort](./potion-sort)
 
