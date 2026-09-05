@@ -122,10 +122,15 @@ not sell or share personal information, because we do not have any.
 - **Advertising ID (`AD_ID`)** — required by Google Play for apps that serve
   ads; used by AdMob as described above.
 
-That is the entire list. The app requests **no storage permission, no camera, no
-microphone, no contacts, no location, and no notifications**, and it runs no
-background or foreground service — it does nothing at all while you are not
-looking at it.
+That is everything the app itself asks for. The Google Mobile Ads SDK merges a
+few more into the final app package — the Android Ad Services permissions, and
+the wake-lock and foreground-service permissions its background worker declares
+— so the list Google Play shows you is slightly longer than the two above. None
+of them is a permission Android stops to ask you about, and none of them is
+used by anything we wrote.
+
+What the app does **not** request, at all: **no storage permission, no camera,
+no microphone, no contacts, no location, and no notifications**.
 
 ## Children
 

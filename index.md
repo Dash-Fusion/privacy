@@ -39,6 +39,7 @@ Privacy policies for apps published by **Dash Fusion** on Google Play.
 - [Voice Recorder](./list-voice)
 - [Flashcards](./list-flashcards)
 - [Unit Converter](./list-convert)
+- [Diary with Lock](./list-journal)
 - [Neon PingPong](./pingpong)
 - [Potion Sort](./potion-sort)
 
