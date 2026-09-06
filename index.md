@@ -42,6 +42,7 @@ Privacy policies for apps published by **Dash Fusion** on Google Play.
 - [Diary with Lock](./list-journal)
 - [Birthdays](./list-birthday)
 - [Car Log](./list-car)
+- [Chores](./list-chores)
 - [Neon PingPong](./pingpong)
 - [Potion Sort](./potion-sort)
 
