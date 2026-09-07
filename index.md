@@ -49,6 +49,9 @@ Privacy policies for apps published by **Dash Fusion** on Google Play.
 - [Timezone](./list-timezone)
 - [Breathe](./list-breathe)
 - [Mood](./list-mood)
+- [Scan](./list-scan)
+- [Sun](./list-sun)
+- [School](./list-school)
 - [Neon PingPong](./pingpong)
 - [Potion Sort](./potion-sort)
 
