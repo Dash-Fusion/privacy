@@ -182,9 +182,9 @@ wrote.
 
 ## Children
 
-This app is not directed at children and is intended for users aged 18 and
-over. We do not knowingly collect personal information from children — as
-described above, we hold no personal data at all.
+This app is not directed at children under 13 and is not designed for use
+under the COPPA framework. We do not knowingly collect personal information
+from children — as described above, we hold no personal data at all.
 
 ## Your choices
 
