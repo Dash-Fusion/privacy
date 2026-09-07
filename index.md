@@ -52,6 +52,7 @@ Privacy policies for apps published by **Dash Fusion** on Google Play.
 - [Scan](./list-scan)
 - [Sun](./list-sun)
 - [School](./list-school)
+- [Shift](./list-shift)
 - [Neon PingPong](./pingpong)
 - [Potion Sort](./potion-sort)
 
