@@ -55,6 +55,7 @@ Privacy policies for apps published by **Dash Fusion** on Google Play.
 - [Shift](./list-shift)
 - [Boxes](./list-boxes)
 - [Gift](./list-gift)
+- [Blood Pressure Log](./list-vitals)
 - [Neon PingPong](./pingpong)
 - [Potion Sort](./potion-sort)
 
