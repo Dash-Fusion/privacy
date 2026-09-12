@@ -60,6 +60,7 @@ Privacy policies for apps published by **Dash Fusion** on Google Play.
 - [Fuel Log](./list-fuel)
 - [Trip Planner](./list-trip)
 - [Resume Builder](./list-resume)
+- [Metronome](./list-metronome)
 - [Neon PingPong](./pingpong)
 - [Potion Sort](./potion-sort)
 
