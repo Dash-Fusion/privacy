@@ -1,17 +1,17 @@
 ---
 layout: default
-title: Sun — Privacy Policy
-description: Privacy policy for the Sun Android app by Dash Fusion.
+title: Solar Almanac — Privacy Policy
+description: Privacy policy for the Solar Almanac Android app by Dash Fusion.
 ---
 
-# Sun — Privacy Policy
+# Solar Almanac — Privacy Policy
 
 **Effective date:** 2026-09-08
-**Last updated:** 2026-09-08
+**Last updated:** 2026-09-14
 
 ## Summary
 
-Sun tells you when the sun rises and sets, when the twilight bands begin and
+Solar Almanac tells you when the sun rises and sets, when the twilight bands begin and
 end, and when the golden hour is, for any place and any date.
 
 **Every one of those numbers is worked out on your phone**, from astronomical
@@ -29,7 +29,7 @@ paragraph of reassurance.
 
 ## Who we are
 
-- **App name:** Sun (Google Play: *Sun: Sunrise Sunset Times*)
+- **App name:** Solar Almanac (Google Play: *Solar Almanac: Sunrise Sunset*)
 - **Developer:** Dash Fusion
 - **Support email:** dash.fusion@outlook.com
 - **App listing:** Google Play (`com.dashfusion.listsun`)
@@ -64,7 +64,7 @@ and it never asks for background location.
   services, so it also works on a device with no Google apps at all.
 
 You can withdraw the permission at any time in Android's own settings, under
-**Settings → Apps → Sun → Permissions**. The app keeps working; the locate
+**Settings → Apps → Solar Almanac → Permissions**. The app keeps working; the locate
 button simply reports that it could not get a fix.
 
 ## What the app stores, and where
