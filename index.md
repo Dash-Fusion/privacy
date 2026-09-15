@@ -62,6 +62,7 @@ Privacy policies for apps published by **Dash Fusion** on Google Play.
 - [Resume Builder](./list-resume)
 - [Metronome](./list-metronome)
 - [Tilt](./list-level)
+- [Last Pack](./list-quit)
 - [Neon PingPong](./pingpong)
 - [Potion Sort](./potion-sort)
 
