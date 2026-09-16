@@ -63,6 +63,7 @@ Privacy policies for apps published by **Dash Fusion** on Google Play.
 - [Metronome](./list-metronome)
 - [Tilt](./list-level)
 - [Last Pack](./list-quit)
+- [Color Patch](./list-color)
 - [Neon PingPong](./pingpong)
 - [Potion Sort](./potion-sort)
 
