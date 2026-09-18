@@ -66,6 +66,7 @@ Privacy policies for apps published by **Dash Fusion** on Google Play.
 - [Color Patch](./list-color)
 - [Pixels Only](./list-resize)
 - [Steady Note](./list-tuner)
+- [Photo OCR](./list-ocr)
 - [Neon PingPong](./pingpong)
 - [Potion Sort](./potion-sort)
 
