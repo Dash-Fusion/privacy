@@ -69,6 +69,7 @@ Privacy policies for apps published by **Dash Fusion** on Google Play.
 - [Photo OCR](./list-ocr)
 - [Pages Left](./list-book)
 - [Ringsmith](./list-ringtone)
+- [Pencil In](./list-appointments)
 - [Neon PingPong](./pingpong)
 - [Potion Sort](./potion-sort)
 - [Fairgrid](./game-sudoku)
