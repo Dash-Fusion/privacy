@@ -75,6 +75,7 @@ Privacy policies for apps published by **Dash Fusion** on Google Play.
 - [Nametide](./list-babynames)
 - [Rentquill](./list-rent)
 - [Tailbook](./list-pet)
+- [Mileroll](./list-mileage)
 - [Neon PingPong](./pingpong)
 - [Potion Sort](./potion-sort)
 - [Fairgrid](./game-sudoku)
