@@ -81,6 +81,7 @@ Privacy policies for apps published by **Dash Fusion** on Google Play.
 - [Fairgrid](./game-sudoku)
 - [Linocut](./game-nonogram)
 - [Minefold](./game-mines)
+- [Charlatan](./game-imposter)
 
 ## Contact
 
