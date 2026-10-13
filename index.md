@@ -83,6 +83,7 @@ Privacy policies for apps published by **Dash Fusion** on Google Play.
 - [Minefold](./game-mines)
 - [Charlatan](./game-imposter)
 - [Hedgerow](./game-maze)
+- [Rootward](./list-familytree)
 
 ## Contact
 
