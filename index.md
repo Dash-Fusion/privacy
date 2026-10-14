@@ -86,6 +86,7 @@ Privacy policies for apps published by **Dash Fusion** on Google Play.
 - [Rootward](./list-familytree)
 - [Underdraw](./list-tracing)
 - [Abacist](./game-mathcrossword)
+- [Spellwick](./game-hangman)
 
 ## Contact
 
