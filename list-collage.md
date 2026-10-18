@@ -39,8 +39,8 @@ The following is created and kept **locally**, in the app's private storage:
 
 - **Your collage in progress:** its layout; its shape and style (the shape, spacing, border,
   corners, background colour, picture size and file type); each cell's photo and how it is
-  framed (moved, zoomed, turned or flipped); and whether it has been saved or shared since it
-  last changed. There is one collage in progress at a time.
+  framed (moved, zoomed, turned or flipped); and whether it has been saved or shared, and whether
+  it has changed since. There is one collage in progress at a time.
 - **The app's own copy of each photo in it:** the picture turned upright and made no larger than
   the largest picture the app makes (3,600 pixels on its longer side), kept as a JPEG. **The copy
   carries no EXIF data and no location**: it is a new file made from the picture's pixels. **The
