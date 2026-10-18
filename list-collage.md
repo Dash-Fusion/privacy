@@ -7,7 +7,7 @@ description: Privacy policy for the Muntin Android app by Dash Fusion.
 # Muntin — Privacy Policy
 
 **Effective date:** 2026-10-17
-**Last updated:** 2026-10-17
+**Last updated:** 2026-10-18
 
 ## Summary
 
@@ -53,8 +53,9 @@ The following is created and kept **locally**, in the app's private storage:
 
 **How long they stay:** your collage in progress and the copies of its photos stay until you
 start a new collage (Muntin asks first) or uninstall the app. A photo you take out of the
-collage keeps its copy only while its Undo is on screen; the app removes any copy the collage no
-longer uses the next time it starts.
+collage, or replace with another, keeps its copy until the app next starts or you start a new
+collage, so that its Undo always has the photo to put back; at those moments the app removes every
+copy the collage no longer uses.
 
 The app explicitly opts out of Android cloud backup and device-to-device transfer, so Android
 never copies your collage or its photos to Google Drive or to another phone. **A new phone
