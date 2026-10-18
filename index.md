@@ -78,6 +78,7 @@ Privacy policies for apps published by **Dash Fusion** on Google Play.
 - [Mileroll](./list-mileage)
 - [Trugbook](./list-garden)
 - [Muntin](./list-collage)
+- [Coatstand](./list-wardrobe)
 - [Neon PingPong](./pingpong)
 - [Potion Sort](./potion-sort)
 - [Fairgrid](./game-sudoku)
