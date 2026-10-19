@@ -79,6 +79,7 @@ Privacy policies for apps published by **Dash Fusion** on Google Play.
 - [Trugbook](./list-garden)
 - [Muntin](./list-collage)
 - [Coatstand](./list-wardrobe)
+- [Pourbook](./list-coffee)
 - [Neon PingPong](./pingpong)
 - [Potion Sort](./potion-sort)
 - [Fairgrid](./game-sudoku)
